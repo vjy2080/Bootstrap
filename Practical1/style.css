@@ -1,0 +1,7 @@
+.bgimage {
+    height: 100vh;
+    border-radius: 20px;
+    background-image: url(./images/about-bg.jpg);
+    background-position: center;
+    background-origin: cover;
+}
